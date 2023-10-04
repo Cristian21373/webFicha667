@@ -1,0 +1,25 @@
+
+
+h1{
+    color: red;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: darkslategrey;
+    background-image: url();
+    
+}
+
+.Colornuevo{
+    color: orange;
+}
+
+.colorcorrecion{
+    color: green;
+}
+
+table tfoot tr :first th{
+    text-shadow: 5px 5px 5px black;
+}
